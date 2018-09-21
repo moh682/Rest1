@@ -1,0 +1,10 @@
+entity/Person_.class
+entity/Address.class
+facade/PersonFacade.class
+com/haririapps/rest_jaxrs/Resource.class
+runner/Runner.class
+entity/PersonDTO.class
+com/haririapps/rest_jaxrs/ApplicationConfig.class
+com/haririapps/rest_jaxrs/JSONConverter.class
+entity/Person.class
+entity/Address_.class
